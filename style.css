@@ -1,0 +1,20 @@
+body{
+    background-color: bisque;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.7rem;
+    color: crimson;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2rem;
+    color: crimson;
+}
+
+img{ 
+    max-height: 50vh;
+
+}
